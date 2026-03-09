@@ -64,7 +64,7 @@
 <!-- Closing Section -->
 <section id="closingSection" class="hidden flex flex-col items-center justify-center min-h-screen text-center px-4">
   <h2 class="text-4xl md:text-6xl font-bold mb-6 animate-pulse text-red-500">አፈቅርሻለሁ ርግቤ 💕</h2>
-  <p class="text-xl md:text-3xl">You are my heart, my dove, my everything.</p>
+  <p class="text-xl md:text-3xl">አንቺ የልቤ ንግስት እስከ ዘላለም አፈቅርሻለሁ , የኔ ርግብ, የኔ ሁሉ ነገር .</p>
   <button class="glass-button mt-10" onclick="location.reload()">Replay</button>
 </section>
 
